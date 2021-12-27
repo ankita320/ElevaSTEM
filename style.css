@@ -1,0 +1,402 @@
+# ElevaSTEM
+ody {
+  background-color: rgb(199, 230, 247);
+}
+
+h1 {
+  padding-left: 180px;
+  font-size: 70px;
+}
+.menu {
+  padding-left: 460px;
+  padding-top: 22px;
+  display: flex;
+
+}
+.bar{
+color: black;
+font-size: 18px;
+padding-top: 7px;
+padding-bottom: 7px;
+padding-right: 7px;
+padding-left: 7px;
+font-family:'Courier New', Courier, monospace;
+margin-right:0px;
+border-width:3px;
+border-style: solid;
+border-color:rgb(0, 0, 0);
+background-color: rgb(199, 230, 247);
+text-decoration: black;
+}
+
+a {
+  color: black;
+}
+
+a:link {
+  text-decoration: none;}
+
+
+.bar:hover {
+font-size: 18px;
+padding-top: 7px;
+padding-bottom: 7px;
+padding-right: 7px;
+padding-left: 7px;
+font-family:'Courier New', Courier, monospace;
+color: black;
+margin-right:0px;
+border-width:3px;
+border-style: solid;
+border-color:rgb(0, 0, 0);
+background-color: rgb(247, 244, 199);
+text-decoration: black;}
+
+
+
+.stem {
+  margin-top: 100px;
+  margin-left: 300px;
+  margin-right: 300px;
+   border-style: solid;
+  border-width: 3px;
+  border-color: rgb(0, 0, 0);
+  font-family: 'Courier New', Courier, monospace;
+  color: rgb(0, 0, 0);  background-color: rgb(247, 244, 199);}
+
+
+  .des {
+    padding-left: 170px;
+    padding-right:170px;
+    font-size: 16px;
+  }
+
+  .learn {
+    background-color: rgb(168, 225, 240);
+    border-width: 2px;
+    color: white;
+    border-style: solid;
+    border-color: rgb(255, 251, 251);
+    margin-left: 308px;
+    margin-bottom: 30px;
+    font-family: 'Courier New', Courier, monospace; 
+    font-size: 20px;
+    border-radius: 25px;
+  }
+
+.web {
+  margin-top: 20px;
+  padding-top: 0px;
+  padding-left: 10px;
+  height:420px;
+  width: 620px;
+  border-width: 10px;
+  border-color: black;
+}
+ 
+
+ .cake {
+   height: 400px;
+   width:630px;
+   padding-left: 0px;
+   
+ }
+
+ .third {
+   padding-left: 7px;
+   height:440px;
+   width: 645px;
+ }
+
+ .fourth {
+    height:440px;
+   width: 660px;
+ }
+
+
+ .first {
+   background-color: rgb(247, 244, 199);
+   border-style:solid;
+   border-color: black;
+   border-width: 5px;
+   margin-top: 20px;
+   margin-right: 6px;
+ }
+
+ .word {
+   margin-left: 10px;
+   font-family:'Courier New', Courier, monospace;
+   font-size: 14px;
+ }
+
+ .css {
+   background-color: rgb(247, 244, 199);
+   margin-top: 20px;
+   padding-top: 20px;
+  padding-lefT: 10px;
+  margin-right: 48px;
+  margin-right: 20px;
+  padding-bottom: 8px;
+  border-color: black;
+  border-style: solid;
+  border-width: 5px;
+ }
+
+ .both {
+   display: flex;
+ }
+
+
+ .text {
+   font-size: 18px;
+   font-family:'Courier New', Courier, monospace;
+   color: black;
+   background-color: rgb(247, 244, 199)
+   border-style: solid;
+   border-color: black;
+   border-width: 5px;
+   margin-right: 423px;
+   margin-left: 400px;
+ }
+
+ .text:hover{
+     font-size: 18px;
+   font-family:'Courier New', Courier, monospace;
+   color: rgb(247, 244, 199);
+   background-color:black ;
+   border-style: solid;
+   border-color: black;
+   border-width: 5px;
+   margin-right: 423px;
+   padding-left: 15px;
+ }
+
+
+#sw {
+  background-color: rgb(247, 244, 199);
+  color: black;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 25px;
+  border-color: black;
+  border-style: solid;
+  border-width: 3px;
+  margin-top: 30px;
+}
+
+#sw:hover{
+   background-color: rgb(199, 230, 247);
+  color: black;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 25px;
+  border-color: black;
+  border-style: solid;
+  border-width: 3px;
+  margin-top: 30px;
+}
+.re {
+  display: flex;
+}
+.generate{
+  background-color: rgb(199, 230, 247);
+  color: black;
+  font-size: 30px;
+  font-family: 'Courier New', Courier, monospace;
+  border-style: solid;
+  border-color: black;
+  border-width: 5px;
+  margin-top: 50px;
+  margin-left: 340px;
+  border-radius: 40px;
+}
+
+.generate:hover {
+    background-color: rgb(247, 244, 199);
+  color: black;
+  font-size: 30px;
+  font-family: 'Courier New', Courier, monospace;
+  border-style: solid;
+  border-color: black;
+  border-width: 5px;
+  margin-top: 50px;
+  text-align: center;
+  border-radius: 40px;
+  margin-left:340px;
+}
+
+
+#songDisplay{
+font-family: 'Courier New', Courier, monospace;
+  font-size: 40px;
+  background-color: rgb(247, 244, 199);
+ margin-left: 300px;
+ margin-right: 300px;
+ border-width:  2px;
+ border-color: black;
+  margin-top: 10px;
+  margin-bottom: 30px;
+} 
+
+
+.s {
+  color: black;
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style:italic;
+}
+
+section {
+  display: flex;
+  justify-content: center;
+}
+
+.submit-btn{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 25px;
+  border-color: rgb(0, 0, 0);
+  background-color: rgb(255, 248, 185);
+  margin-top: 20px;
+  margin-left: 70px;
+  margin-right: 70px;
+  color: rgba(0, 0, 0, 0.986);
+ }
+
+.share {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+  font-family: 'Courier New', Courier, monospace;
+  margin-left: 300px;
+  margin-right: 300px;
+  background-color: rgb(255, 254, 206);
+  border-style: solid;
+  border-color: black;
+  border-width: 3px;
+
+}
+
+h5 {
+  border: 2px solid rgb(0, 0, 0);
+  background-color: rgb(255, 254, 206);
+  display: flex;
+  font-size: 18px;
+  font-family: 'Courier New', Courier, monospace;
+
+}
+
+.userinput{
+  display: flex;
+  flex-direction: column;
+}
+
+
+
+
+h4 {
+  font-size: 30px;
+  font-family: 'Courier New', Courier, monospace;
+  color: black;
+margin-right: 30px;
+border-style: solid;
+border-color: black;
+border-width: 5px;
+padding-left: 10px;
+padding-right: 10px;
+}
+
+.new-input {
+  height: 30px;
+  margin-top: 40px;
+}
+
+.new-btn {
+  height: 35px;
+  margin-top: 40px;
+  margin-left: 10px;
+  color: rgb(255, 248, 183);
+  background-color: black;
+  border-style: solid;
+  border-color: rgb(255, 248, 183);
+  border-width: 3px;
+  font-size: 25px;
+  font-family: 'Courier New', Courier, monospace;
+
+}
+
+
+.delete-btn {
+   height: 35px;
+  margin-top: 0px;
+  margin-left: 10px;
+  color: rgb(255, 248, 183);
+  background-color: black;
+  border-style: solid;
+  border-color: rgb(255, 248, 183);
+  border-width: 3px;
+  font-size: 25px;
+  font-family: 'Courier New', Courier, monospace;
+
+}
+
+h6 {
+  background-color:lightyellow;
+  color: black;
+  font-size: 25px;
+  border-color: black;
+  border-width: 3px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+margin-top: 30px;
+}
+
+
+.connect {
+  background-color: aliceblue;
+  margin-top: 120px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 70px;
+
+}
+
+.no{
+  padding-top: 13px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 15px;
+ 
+}
+
+
+.no:hover{
+  padding-top: 13px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 15px;
+  color: rgb(145, 145, 145);
+ 
+}
+
+.yee:hover{
+  padding-top: 13px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 18px;
+  color: rgb(145, 145, 145);
+  font-weight: bold;
+ 
+}
+.yee{
+  padding-top: 13px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.oo {
+  display: flex;
+}
+
+
+.yi {
+  padding-left: 100px;
+  padding-top: 35px;
+}
